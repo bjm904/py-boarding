@@ -1,1 +1,1 @@
-py-boarding
+Python Airplane Boarding Simulator
